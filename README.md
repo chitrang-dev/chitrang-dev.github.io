@@ -1,5 +1,4 @@
-# Profile site - Chitrang Dave
-
-Static single-page profile for GitHub Pages. Upload these files to the root of a GitHub repository, then enable **Settings → Pages → Deploy from a branch** and select `main` / `/ (root)`.
-
-Before publishing, replace `hello@chitrangdave.com` in `index.html` with the preferred public contact email (or LinkedIn URL).
+- 👋 Hi, I’m a builder, a leader, and a technology executive with global experience delivering technology and data solutions in healthcare & life sciences, enterprise, & consulting.
+- 👀 I’m interested in everything! Web, Databases, Applications, AI/ML ... you name it! SQL, Python, Streamlit, Snowflake, Databricks, Microsoft Fabric, Oracle, SQL Server, Power BI, Tableau, Qlik, Ruby on Rails
+- 📫 How to reach me ... LinkedIn, Twitter, 
+- ⚡ Fun fact: ... after a beer or 2!
