@@ -1,4 +1,4 @@
-# Chitrang Dave profile site
+# Profile site - Chitrang Dave
 
 Static single-page profile for GitHub Pages. Upload these files to the root of a GitHub repository, then enable **Settings → Pages → Deploy from a branch** and select `main` / `/ (root)`.
 
